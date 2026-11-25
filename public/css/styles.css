@@ -14,25 +14,19 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
-  font-weight: 200;
-  src: local('public/assets/fonts/roboto-light-webfont.woff2') format('woff2'),
-       local('public/assets/fonts/roboto-light-webfont.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Roboto';
+  font-family: 'Inter';
   font-weight: 400;
-  src: local('public/assets/fonts/roboto-black-webfont.woff2') format('woff2'),
-       local('public/assets/fonts/roboto-black-webfont.woff') format('woff');
+  src: url('public/assets/fonts/inter-regular-webfont.woff2') format('woff2'),
+       url('public/assets/fonts/inter-regular-webfont.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'Roboto';
-  font-weight: 600;
-  src: local('public/assets/fonts/roboto-bold-webfont.woff2') format('woff2'),
-       local('public/assets/fonts/roboto-bold-webfont.woff') format('woff');
+  font-family: 'Inter';
+  font-weight: 700;
+  src: url('public/assets/fonts/inter-bold-webfont.woff2') format('woff2'),
+       url('public/assets/fonts/inter-bold-webfont.woff') format('woff');
 }
+
 
 
 
